@@ -14,5 +14,5 @@
 [![Postgres](https://shields.io/badge/-Postgres-f9fbfa?logo=postgresql&style=for-the-badge)](https://www.postgresql.org/)
 [![ExpressJS](https://img.shields.io/badge/-Express.js-333?logo=express&style=for-the-badge)](https://expressjs.com/ru/)
 [![PassportJS](https://img.shields.io/badge/-Passport.js-000000?logo=passportjs&style=for-the-badge)](http://www.passportjs.org/)
-[![WebSocket](https://img.shields.io/badge/-WebSocket-f9fbfa?logo=websocket&style=for-the-badge)](https://developer.mozilla.org/ru/docs/Web/API/WebSocket)
+[![WebSocket](https://img.shields.io/badge/-WebSocket-f9fbfa?logo=socketdotio&style=for-the-badge)](https://developer.mozilla.org/ru/docs/Web/API/WebSocket)
 [![Heroku](https://img.shields.io/badge/-Heroku-431490?logo=heroku&style=for-the-badge)](https://www.heroku.com/)
